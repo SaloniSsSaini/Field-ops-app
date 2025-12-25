@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Field Ops App",
+    "slug": "field-ops-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/icon.jpg",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.limelightit.fieldops",
+      "versionCode": 1
+    },
+    "extra": {
+      "tenant_id": "tenant-demo-001"
+    }
+  }
+}
